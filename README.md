@@ -1,5 +1,3 @@
-# QMtibbaR
-
 ## RabbitMQ知识点
 RabbitMQ是一个由erlang开发的AMQP的开源实现。
 > AMQP(Advanced Message Queuing Protocol).高级消息队列协议:
